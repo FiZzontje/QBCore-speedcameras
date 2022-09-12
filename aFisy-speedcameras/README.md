@@ -1,6 +1,3 @@
-# qb-speedcameras
-Originally converted from an esx script by WEEZOOKA - Re-written & Optimised
-
 Edit by fisy Dutch speedcameras
 
 **Original script** >> [esx_speedcamera](https://github.com/P4NDAzzGaming/esx_speedcamera)
